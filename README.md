@@ -3,10 +3,10 @@
 
 1. Estructura del proyecto Flask
 
-Aquí tienes una estructura recomendada para el código base:
+
 
 mi_servicio/
-├── app/
+├── app/python
 │   ├── __init__.py
 │   ├── routes.py
 │   └── models.py
